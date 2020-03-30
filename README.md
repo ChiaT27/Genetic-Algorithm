@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-GA for the travelling salesman problem with a randomly generated route 
+GA for the travelling salesman problem with randomly generated routes 
